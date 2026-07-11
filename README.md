@@ -2,6 +2,8 @@
 
 `study-forge` 플러그인 배포용 Claude Code 마켓플레이스.
 
+> ℹ️ 구 **study-assistant**는 2026-07-11 **study-forge**로 개명되었습니다 (레포·플러그인·마켓플레이스 일괄). 기존 study-assistant 설치는 study-forge로 재설치가 필요합니다.
+
 ## 포함 플러그인
 
 | 플러그인 | 최신 버전 | 설명 |
