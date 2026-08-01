@@ -8,9 +8,9 @@
   "plugins": [
     {
       "name": "study-forge",
-      "source": "./study-forge-v0.9.0",
+      "source": "./study-forge-v0.10.0",
       "description": "대학 강의 학습 지원 플러그인 — 강의노트 작성, 복습, 시험 대비",
-      "version": "0.9.0"
+      "version": "0.10.0"
     }
   ]
 }
